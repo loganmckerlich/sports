@@ -6,6 +6,7 @@ Target audience is anyone who wants to know enough about sports to talk about sp
 
 ## Plan
 - scrape the headlines from yesterday
+- scrape from reddit too?
 - read a few articles to get more in depth info
 - create a LLM to summarize
 - create audio file of ai voice reading
